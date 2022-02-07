@@ -1,4 +1,3 @@
-# shilpakolekar.github.io
 <h2 align="center">
 Hi there, I'm Shilpa Kolekar 👋
 </h2>
