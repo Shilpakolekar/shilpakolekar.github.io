@@ -4,7 +4,7 @@
 
 <h2 align="center">Data Science Projects Portfolio</h2>
 
-<h3 align="Center">Project 1</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection%20Predictive%20Case%20Study">Credit Card Fraud Detection Predictive Case Study</a></h3>
 
 <h3 align="Center">Project 2</h3>
 
