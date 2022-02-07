@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: pink;
+    background: lightcoral;
     text-align: center;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
     
   }
   p {
-    color: lightblue;
+    color: blue;
     font-family: Calibri; 
     font-size: 150%;
   }
