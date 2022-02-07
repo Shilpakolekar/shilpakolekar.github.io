@@ -6,7 +6,7 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection%20Predictive%20Case%20Study">Credit Card Fraud Detection Predictive Case Study</a></h3>
 
-<h3 align="Center">Project 2</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Stock%20Price%20Prediction">Stock Price Prediction</a></h3>
 
 <h3 align="Center">Project 3</h3>
 
