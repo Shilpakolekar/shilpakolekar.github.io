@@ -2,6 +2,10 @@
 Hi there, I'm Shilpa Kolekar 👋
 </h2>
 <br/>
+<div align="center">
+<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/resume.html">Resume</a>
+</div>
+<br/>
 <p align="justify">       
 I'm really passionate about Data and Data Science related areas. I am a recent graduate with Masters of Science in 
 Data Science Degree from Bellevue University. I have learned and explored variety of Data Science topics in my 
