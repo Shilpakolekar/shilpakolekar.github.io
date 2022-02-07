@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: lightcoral;
+    background: lightgray;
     text-align: center;
 }
 h1 {
@@ -10,7 +10,7 @@ h1 {
     
   }
   p {
-    color: blue;
+    color: navy;
     font-family: Calibri; 
     font-size: 150%;
   }
