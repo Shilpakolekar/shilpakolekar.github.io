@@ -1,6 +1,4 @@
-<h2 align="center">
-Hi there, I'm Shilpa Kolekar 👋
-</h2>
+<h2 align="center">Shilpa Kolekar</h2>
 <br/>
 <div align="center">
 <a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/resume.html">Resume</a>
