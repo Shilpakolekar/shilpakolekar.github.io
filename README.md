@@ -1,5 +1,5 @@
 <div align="center">
-<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a> | <a href="/resume.html">Resume</a>
+<a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a>
 </div>
 
 <h2 align="center">Data Science Projects Portfolio</h2>
