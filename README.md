@@ -12,7 +12,7 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Customer%20Segmentation">Customer Segmentation</a></h3>
 
-<h3 align="Center"><a href="">Amazon Sentiment Analysis</a></h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Amazon%20Sentiment%20Analysis">Amazon Sentiment Analysis</a></h3>
 
 <h3 align="Center">Project 6</h3>
 
