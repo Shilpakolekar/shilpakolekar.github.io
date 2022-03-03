@@ -10,9 +10,9 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Heart%20Disease%20Prediction">Heart Disease Prediction</a></h3>
 
-<h3 align="Center">Project 4</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Customer%20Segmentation">Customer Segmentation</a></h3>
 
-<h3 align="Center">Project 5</h3>
+<h3 align="Center"><a href="">Amazon Sentiment Analysis</a></h3>
 
 <h3 align="Center">Project 6</h3>
 
