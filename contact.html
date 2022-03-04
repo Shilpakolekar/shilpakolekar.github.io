@@ -7,7 +7,32 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Work in progress</h1>
+    <div id="m_contact">
+        <h3>Contact Form</h3>
+        <form accept-charset="utf-8" action="https://formspree.io/f/mnqwplll" method="post" target="_blank">
+          <fieldset>
+            <label for="m_full-name">Full Name</label>
+            <input type="text" name="Name" id="m_full-name" maxlength="50">
+      
+            <label for="m_email-address">Email Address</label>
+            <input type="email" name="Email" id="m_email-address" maxlength="50">
+      
+            <label for="m_email-subject">Subject</label>
+            <input type="text" name="Subject" id="m_email-subject" maxlength="50">
+      
+            <label for="m_message">Message</label>
+            <textarea type="text" name="Message" id="m_message" maxlength="2000" rows="10"></textarea>
+          </fieldset>
+      
+          <div style="display:flex">
+            <input type="submit" value="Submit">
+          </div>
+        </form>
+      </div>
+    
+    <form target="_blank">
+        <input type="button" value="Back">
+    </form>
     </body>
 <form>
     <input type="button" value="Back" onclick="history.back()">
