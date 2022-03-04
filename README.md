@@ -18,7 +18,7 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Air%20Travel%20Safety%20Visualization">Air Travel Safety Visualization</a></h3>
 
-<h3 align="Center">Insurance Policy Renewal Prediction</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Insurance%20Policy%20Renewal%20Prediction">Insurance Policy Renewal Prediction</a></h3>
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Obesity%20Data%20Preparation">Obesity Data Preparation</a></h3>
 
