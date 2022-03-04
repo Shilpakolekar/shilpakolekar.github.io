@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td style="vertical-align:middle">
-         <img src="images/policy.jpeg" width="60" height="40"/>
+         <img src="images/policy.jpg" width="60" height="40"/>
       </td> 
       <td style="vertical-align:middle">
         <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Insurance%20Policy%20Renewal%20Prediction">Insurance Policy Renewal Prediction</a></h3>
