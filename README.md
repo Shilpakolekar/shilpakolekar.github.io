@@ -7,6 +7,9 @@
 <table>
     <tr>
       <td style="vertical-align:middle">
+         <img src"images/stock.jpg" width="60" height="40"/>
+      </td> 
+      <td style="vertical-align:middle">
         <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Stock%20Price%20Prediction">Stock Price Prediction</a></h3>
       </td> 
     </tr>
