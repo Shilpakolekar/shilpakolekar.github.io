@@ -4,6 +4,19 @@
 
 <h2 align="center">Data Science Projects Portfolio</h2>
 
+<table>
+    <tr>
+      <td style="vertical-align:middle">
+        <h4 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Stock%20Price%20Prediction">Stock Price Prediction</a></h4>
+      </td> 
+    </tr>
+    <tr>
+      <td style="vertical-align:middle">
+        <h4 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Heart%20Disease%20Prediction">Heart Disease Prediction</a></h4>
+      </td> 
+    </tr>
+</table>
+
 <h4 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Stock%20Price%20Prediction">Stock Price Prediction</a></h4>
 
 <h4 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Heart%20Disease%20Prediction">Heart Disease Prediction</a></h4>
