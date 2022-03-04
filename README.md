@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td style="vertical-align:middle">
-         <img src="images/stock.jpg" width="60" height="40"/>
+         <img src="images/heart.png" width="60" height="40"/>
       </td> 
       <td style="vertical-align:middle">
         <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Heart%20Disease%20Prediction">Heart Disease Prediction</a></h3>
