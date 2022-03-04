@@ -20,7 +20,7 @@
 
 <h3 align="Center">Insurance Policy Renewal Prediction</h3>
 
-<h3 align="Center">Obesity Data Preparation</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Obesity%20Data%20Preparation">Obesity Data Preparation</a></h3>
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Cash%20Register%20Program%20using%20Python">Cash Register Program using Python</a></h3>
 
