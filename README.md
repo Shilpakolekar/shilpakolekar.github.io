@@ -1,8 +1,8 @@
 <div align="center">
 <a href="/about.html">About Me</a> | <a href="/contact.html">Contact</a>
-<br>
+<br><br>
 <img align="center" src="images/shilpa.png" width="200" height="250"/>
-<br>
+<br><br>
 <h3 align="center">Data Science Skills</h3>
 <p align="center">Python Programming, R Programming, Data Preparation (Wrangling), Data Mining, Exploratory Data Analysis, Predictive Analytics, Machine Learning, Data Visualization (Tableau), Big Data</p>
 </div>
