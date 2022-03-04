@@ -16,7 +16,7 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Auto%20Insurance%20Claim%20Prediction">Auto Insurance Claim Prediction</a></h3>
 
-<h3 align="Center">Project 7</h3>
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Air%20Travel%20Safety%20Visualization">Air Travel Safety Visualization</a></h3>
 
 <h3 align="Center">Project 8</h3>
 
