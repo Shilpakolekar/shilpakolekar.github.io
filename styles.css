@@ -3,14 +3,48 @@ body {
     background: lightgray;
     text-align: center;
 }
-h1 {
+h1, h2 {
     color: navy;
     font-family: Calibri;
     font-size: 200%;
     
   }
-  p {
+h3 {
+    color: navy;
+    font-family: Calibri;
+    font-size: 150%;
+}
+p {
     color: navy;
     font-family: Calibri; 
     font-size: 150%;
   }
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    align-items: center;
+    padding: 1em;
+}
+
+div+div {
+    margin-top: 1em;
+}
+
+label span {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+}
+
+input, textarea {
+    font: 1em sans-serif;
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
