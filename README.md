@@ -14,8 +14,6 @@
 
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Computer%20Vision%20How%20It%20Is%20Changing%20Our%20Modern%20World%20-%20Research%20Paper">Computer Vision: How It Is Changing Our Modern World</a></h3>
 
-<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection%20Predictive%20Case%20Study">Credit Card Fraud Detection Predictive Case Study</a></h3>
-
 <h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Auto%20Insurance%20Claim%20Prediction">Auto Insurance Claim Prediction</a></h3>
 
 <h3 align="Center">Project 8</h3>
@@ -23,4 +21,6 @@
 <h3 align="Center">Project 9</h3>
 
 <h3 align="Center">Project 10</h3>
+
+<h3 align="Center"><a href="https://github.com/Shilpakolekar/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection%20Predictive%20Case%20Study">Credit Card Fraud Detection Predictive Case Study</a></h3>
 
